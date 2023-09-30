@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16969342298",
+    "project_id": "codestur-59ec7",
+    "storage_bucket": "codestur-59ec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16969342298:android:68df8672979d4dcdd2a763",
+        "android_client_info": {
+          "package_name": "com.example.codesturadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16969342298-0pk3vft6l5nj4rj7ssmhd3sq6jtdkb5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAgJ5u7N8fntlweYy7ZkqtOIkZlkXgFGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16969342298-0pk3vft6l5nj4rj7ssmhd3sq6jtdkb5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
